@@ -1,4 +1,4 @@
-(ns estoque.hello_02)
+(ns hello-clojure)
 
 (defn value-is-eligible?
       "Returns whether the gross-value is eligible for discount"
