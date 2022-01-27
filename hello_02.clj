@@ -1,4 +1,4 @@
-(ns estoque.core)
+(ns estoque.hello_02)
 
 (defn value-is-eligible?
       "Returns whether the gross-value is eligible for discount"
