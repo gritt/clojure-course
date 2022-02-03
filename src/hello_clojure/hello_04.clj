@@ -1,4 +1,4 @@
-(ns hello-04)
+(ns hello-clojure.hello-04)
 
 ; hashmap / map
 ; no guarantee about the order of keys

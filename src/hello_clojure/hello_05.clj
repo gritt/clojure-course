@@ -1,4 +1,4 @@
-(ns curso.aula5)
+(ns hello-clojure.hello-05)
 
 ; a map is also a collection,
 ; thus we can use map, reduce and filters

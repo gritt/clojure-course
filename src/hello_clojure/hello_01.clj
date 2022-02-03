@@ -1,3 +1,5 @@
+(ns hello-clojure.hello-01)
+
 ; symbol with value
 (def this-is-a-symbol 13)
 

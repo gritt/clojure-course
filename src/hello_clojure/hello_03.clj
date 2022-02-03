@@ -1,4 +1,4 @@
-(ns hello-03)
+(ns hello-clojure.hello-03)
 
 ; vector of numbers
 (def prices [30 100 400 1000 50000])
